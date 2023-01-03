@@ -72,6 +72,5 @@
         </p>
         <a href="hobbies.html">My Hobbies</a><br>
         <a href="contact.html">Contact Me</a><br>
-        <a href="input.html">Inputs</a>
     </body>
 </html>
